@@ -1,0 +1,4 @@
+data/references.json.gz
+weights.json
+/server
+*.exe

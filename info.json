@@ -1,0 +1,7 @@
+{
+    "participants": ["Luan"],
+    "social": ["https://github.com/rluuan"],
+    "source-code-repo": "https://github.com/rluuan/rinha-de-backend-2026-go",
+    "stack": ["golang", "nginx", "perceptron"],
+    "open_to_work": true
+}
